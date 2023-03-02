@@ -9,7 +9,7 @@ This project was produced for the Data Science Toolbox module at the Univeristy 
 
 * Hannah Harrison
 * Zhihui Zhang
-* Xin 
+* Xin Guan
 
 
 ## Reading Order
@@ -28,5 +28,5 @@ Requirements for the files are given within each script.
 Our evidence is shown in our own directories:
 
 * /Hannah
-* /
+* /Xin
 * /
