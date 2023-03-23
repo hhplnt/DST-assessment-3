@@ -10,7 +10,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "bce339e9",
+   "id": "40a6783d",
    "metadata": {},
    "source": [
     "### Introduction\n",
@@ -40,7 +40,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "dd9f15fc",
+   "id": "75f0bf77",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -71,7 +71,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8b73006b",
+   "id": "3c9f9cfe",
    "metadata": {},
    "source": [
     "### Data import \n",
@@ -120,7 +120,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "452bd6c8",
+   "id": "1a9b5bbe",
    "metadata": {},
    "source": [
     "Next I import the data into two lists, containing the image arrays and the labels, which are derived from the folder names. Since the image loading takes time to run, the chunk below shows the progress by outputting which folders is being processed. The '.DS_store' condition is present so that the code operates correctly for group members using MAC."
@@ -243,7 +243,7 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "0a0d9255",
+   "id": "9375c114",
    "metadata": {},
    "outputs": [
     {
@@ -279,7 +279,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3bce3d79",
+   "id": "e73faa5d",
    "metadata": {},
    "source": [
     "### Downsampling\n",
@@ -342,7 +342,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b5e9af92",
+   "id": "3e178892",
    "metadata": {},
    "source": [
     "### Preprocessing\n",
@@ -517,30 +517,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 16,
+   "execution_count": 19,
    "id": "5a306328",
    "metadata": {},
-   "outputs": [
-    {
-     "ename": "SyntaxError",
-     "evalue": "(unicode error) 'unicodeescape' codec can't decode bytes in position 7-8: truncated \\xXX escape (246040094.py, line 2)",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[1;36m  Input \u001b[1;32mIn [16]\u001b[1;36m\u001b[0m\n\u001b[1;33m    save('..\\Data\\x_train_sample.npy', x_train)\u001b[0m\n\u001b[1;37m                                     ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m (unicode error) 'unicodeescape' codec can't decode bytes in position 7-8: truncated \\xXX escape\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "# save numpy array as npy file\n",
-    "save('..\\Data\\x_train_sample.npy', x_train)\n",
-    "save('..\\Data\\y_train_sample.npy', y_train)\n",
-    "save('..\\Data\\x_test_sample.npy', x_test)\n",
-    "save('..\\Data\\y_test_sample.npy', y_test)"
+    "save('../Data/x_train_sample.npy', x_train)\n",
+    "save('../Data/y_train_sample.npy', y_train)\n",
+    "save('../Data/x_test_sample.npy', x_test)\n",
+    "save('../Data/y_test_sample.npy', y_test)"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "1b2ee90e",
+   "id": "ba974b04",
    "metadata": {},
    "source": [
     "### References\n",
