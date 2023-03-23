@@ -2,8 +2,7 @@
 
 ## Description
 
-...
-This project was produced for the Data Science Toolbox module at the Univeristy of Bristol.
+An exploration of neural networks and parallelism for the task of predicting plant disease from images of leaves. This project was produced for the Data Science Toolbox module at the Univeristy of Bristol.
 
 ## Project Group
 
