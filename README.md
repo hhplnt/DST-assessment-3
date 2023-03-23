@@ -20,6 +20,15 @@ All report content is in the directory:
 
 The report is structured as follows:
 
+* 01 - Introduction.md
+* 02.1 - Downsampled subset.ipynb
+* 02.2 - Full dataset.ipynb
+* 03- Activation function investigation.ipynb
+* 04 - 
+* 05 - 
+* 06 - Discussion and Conclusions
+
+
 ## Requirements
 
 Requirements for the files are given within each script.
