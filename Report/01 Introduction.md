@@ -1,3 +1,6 @@
 # Introduction
 
-~Introduce data, go through task and aims with reference to the brief
+The main aim of this project was to investigate neural networks and massively parallel data science techniques. To this end, we investigate the multi-class classification problem of identifying plant disease based on images of leaves. The dataset of interest is the kaggle PlantVillage data, which contains over 20,000 images of 3 species of plant (tomato, pepper and potato), both healthy and with a variety of diseases. There are 15 classes of image in total, making this a difficult problem, and one for which convolutional neural networks are particularly well suited. 
+
+Our investigation focuses not on attaining the highest possible performance, but on investigating the properties of neural networks for this task and so we will begin with an investigation into the use of differnt activation functions on a small subset of the data in file 03, before moving on to consider pre-trained models on the dataset as a whole in file 04. 
+In order to explore parallelism, we will also investigate...
