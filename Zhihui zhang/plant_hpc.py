@@ -2,9 +2,6 @@
 import numpy as np
 from keras.preprocessing.image import ImageDataGenerator
 
-
-
-
 # %% [markdown]
 # # load the data
 
@@ -61,7 +58,8 @@ aug = ImageDataGenerator(
 
 # %%
 from keras.models import Model
-from keras.optimizers import Adam
+
+from tensorflow.keras.optimizers import Adam
 from keras.layers import GlobalAveragePooling2D
 from keras.layers import Dense
 from keras.applications.inception_v3 import InceptionV3
@@ -151,7 +149,7 @@ display_training_curves(
 import tensorflow as tf
 from keras.models import Model
 from keras.applications import vgg16
-from keras.optimizers import Adam
+from tensorflow.keras.optimizers import Adam
 from keras.layers import GlobalAveragePooling2D
 from keras.layers import Dense
 from keras.applications.inception_v3 import InceptionV3
