@@ -17,7 +17,8 @@ Y_test_1=np.load(file="C:/Users/haile/OneDrive - University of Bristol/assessmen
 
 # %%
 import tensorflow.keras.backend as K
-
+import os
+os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 
 
 def recall_m(y_true, y_pred):
@@ -115,6 +116,7 @@ def display_training_curves(training, validation, yaxis):
                name="Val"))
     
     fig.update_layout(title_text=title, yaxis_title=ylabel, xaxis_title="Epochs", template="plotly_white")
+    fig.write_image(yaxis +".png")
     fig.show()
 
 # %%
