@@ -27,7 +27,7 @@ The report is structured as follows:
 * 06 - Parallelism.ipynb
 * 07 - Discussion and Conclusions
 
-Hannah wrote files 01,02 and 03, Hailey wrote file 04.1 and 04.2, and Xin wrote files 05 and 06. We jointly wrote file 07.
+Hannah wrote files 01, 02 and 03, Hailey wrote file 04.1 and 04.2, and Xin wrote files 05 and 06. We jointly wrote file 07.
 
 ## Equity 
 
