@@ -16,3 +16,4 @@ Furthermore, we investigated the impact of multi-processing on image pre-process
 2. https://stackabuse.com/autoencoders-for-image-reconstruction-in-python-and-keras/
 3. https://medium.com/analytics-vidhya/denoising-autoencoder-on-colored-images-using-tensorflow-17bf63e19dad
 4. https://github.com/therealcyberlord/tensorflow_keras_color_images_denoiser/blob/master/better_denoiser.ipynb
+5. https://towardsdatascience.com/parallelize-your-python-code-to-save-time-on-data-processing-805934b826e2
