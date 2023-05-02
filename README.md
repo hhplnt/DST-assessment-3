@@ -24,7 +24,7 @@ The report is structured as follows:
 * 03- Activation function investigation.ipynb
 * 04 - 
 * 05 - AutoEncoder for image classification.ipynb
-* 06 -
+* 06 - Parallelism.ipynb
 * 07 - Discussion and Conclusions
 
 Hannah wrote files 01,02 and 03, Hailey wrote file 04 and Xin wrote files 05 and 06. We jointly wrote file 07.
