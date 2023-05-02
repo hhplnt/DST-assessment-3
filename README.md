@@ -21,7 +21,7 @@ The report is structured as follows:
 
 * 01 - Introduction.md
 * 02 - Downsampled subset.ipynb
-* 03- Activation function investigation.ipynb
+* 03 - Activation function investigation.ipynb
 * 04 - 
 * 05 - AutoEncoder for image classification.ipynb
 * 06 - Parallelism.ipynb
