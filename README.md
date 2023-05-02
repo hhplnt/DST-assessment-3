@@ -22,7 +22,8 @@ The report is structured as follows:
 * 01 - Introduction.md
 * 02 - Downsampled subset.ipynb
 * 03 - Activation function investigation.ipynb
-* 04 - 
+* 04.1 - Build our own CNN model.ipynb
+* 04.2 - Pretrained model.ipynb
 * 05 - AutoEncoder for image classification.ipynb
 * 06 - Parallelism.ipynb
 * 07 - Discussion and Conclusions
