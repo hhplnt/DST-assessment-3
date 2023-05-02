@@ -21,3 +21,6 @@ We also constructed our own CNN model. We started with a neural network consisti
 3. https://medium.com/analytics-vidhya/denoising-autoencoder-on-colored-images-using-tensorflow-17bf63e19dad
 4. https://github.com/therealcyberlord/tensorflow_keras_color_images_denoiser/blob/master/better_denoiser.ipynb
 5. https://towardsdatascience.com/parallelize-your-python-code-to-save-time-on-data-processing-805934b826e2
+6. https://github.com/persistforever/cifar10-tensorflow/blob/master/src/tflayer/dense_layer.py
+7. https://www.kaggle.com/code/tathagatbanerjee/transfer-learning-based-plant-disease-detection#Transfer-Learning-Implementation
+8. K. Simonyan and A. Zisserman. Very deep convolutional networks for large-scale image recognition. In ICLR, 2015.
