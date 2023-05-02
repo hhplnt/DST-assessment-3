@@ -6,5 +6,10 @@ In the activation function experiment, we compared the predictive performance of
 
 
 
+After experimenting with several autoencoder models, we found that the model with more layers performed better on our high-quality image dataset. The model's ability to effectively denoise images with added Gaussian noise suggests that it could be applied to other similar tasks.
+
+Furthermore, we investigated the impact of multi-processing on image pre-processing for datasets of different sizes. Our findings showed that multi-processing is beneficial for large datasets as it significantly reduces computational time. However, for smaller datasets, it may even increase processing time. These results can help guide decisions around resource allocation when working with image datasets.
+
+
 ### References
 1. https://medium.com/codex/activation-functions-in-neural-network-steps-and-implementation-df2e4c858c21
