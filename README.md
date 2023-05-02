@@ -24,8 +24,14 @@ The report is structured as follows:
 * 03- Activation function investigation.ipynb
 * 04 - 
 * 05 - 
-* 06 - Discussion and Conclusions
+* 06 -
+* 07 - Discussion and Conclusions
 
+Hannah wrote files 01,02 and 03, Hailey wrote file 04 and Xin wrote files 05 and 06. We jointly wrote file 07.
+
+## Equity 
+
+Equity is split equally between the three group members.
 
 ## Requirements
 
