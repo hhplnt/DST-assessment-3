@@ -13,3 +13,6 @@ Furthermore, we investigated the impact of multi-processing on image pre-process
 
 ### References
 1. https://medium.com/codex/activation-functions-in-neural-network-steps-and-implementation-df2e4c858c21
+2. https://stackabuse.com/autoencoders-for-image-reconstruction-in-python-and-keras/
+3. https://medium.com/analytics-vidhya/denoising-autoencoder-on-colored-images-using-tensorflow-17bf63e19dad
+4. https://github.com/therealcyberlord/tensorflow_keras_color_images_denoiser/blob/master/better_denoiser.ipynb
