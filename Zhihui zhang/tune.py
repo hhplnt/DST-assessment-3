@@ -6,10 +6,11 @@ os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 
 
 # %%
-X_train_1=np.load(file='C:/Users/haile/OneDrive - University of Bristol/assessment3/DST-assessment-3.1/DST-assessment-3/Zhihui zhang/X_train_1.npy')/255
-X_test_1=np.load(file='C:/Users/haile/OneDrive - University of Bristol/assessment3/DST-assessment-3.1/DST-assessment-3/Zhihui zhang/X_test_1.npy')/255
-Y_train_1=np.load(file='C:/Users/haile/OneDrive - University of Bristol/assessment3/DST-assessment-3.1/DST-assessment-3/Zhihui zhang/Y_train_1.npy')
-Y_test_1=np.load(file='C:/Users/haile/OneDrive - University of Bristol/assessment3/DST-assessment-3.1/DST-assessment-3/Zhihui zhang/Y_test_1.npy')
+X_train_1=np.load(file='X_train_1.npy')/255
+X_test_1=np.load(file='X_test_1.npy')/255
+Y_train_1=np.load(file='Y_train_1.npy')
+Y_test_1=np.load(file='Y_test_1.npy')
+
 
 # %%
 
